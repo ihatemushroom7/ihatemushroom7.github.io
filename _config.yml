@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Have been hated mushroom for life. Just that simple.
 domain: ihatemushroom7.github.io
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ihatemushroom7.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ihatemushroom7
 
 # Build settings
